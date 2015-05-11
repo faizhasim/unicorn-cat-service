@@ -6,7 +6,7 @@
 
 1. Install [graphicsmagick](http://www.graphicsmagick.org/).
 
-2. Install NPM
+2. Install node module dependencies
 
         npm install
     
