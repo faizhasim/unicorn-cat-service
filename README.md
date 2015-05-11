@@ -8,11 +8,11 @@
 
 2. Install NPM
 
-    npm install
+        npm install
     
 3. Run the web app on port 3000
 
-    npm start
+        npm start
 
   
 ## Endpoints
