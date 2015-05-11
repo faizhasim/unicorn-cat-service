@@ -1,0 +1,15 @@
+{
+  "name": "image-resizer-app",
+  "version": "1.0.0",
+  "description": "GG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Faiz Hasim",
+  "license": "WTFBBQ",
+  "dependencies": {
+    "express": "^4.12.3",
+    "gm": "^1.17.0"
+  }
+}
